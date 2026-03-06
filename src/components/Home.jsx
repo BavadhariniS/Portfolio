@@ -16,7 +16,7 @@ function Home(){
       <button>Download Resume</button>
 
       <div className="image">
-        <img src="bava.jpeg" alt="me"/>
+        <img height={250} width={200} src="bava.jpeg" alt="me"/>
       </div>
 
     </section>
