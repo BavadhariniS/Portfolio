@@ -8,7 +8,7 @@ function Header(){
         <div className="logo">
           <h1>
             <img height="50px" width="50px" src="hacker.png" alt="hacker"/>
-            Bavadharini
+            Bavadharini S
           </h1>
         </div>
 
@@ -22,8 +22,8 @@ function Header(){
         </div>
 
         <div id="icon">
-          <i className="fa-brands fa-github"></i>
-          <i className="fa-brands fa-linkedin"></i>
+          <i class="fa-brands fa-square-github"></i>
+          <i class="fa-brands fa-linkedin-in"></i>
         </div>
 
       </div>

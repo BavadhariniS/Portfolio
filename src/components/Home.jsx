@@ -4,7 +4,7 @@ function Home(){
   return(
     <section id="home">
 
-      <h1>Hello, I'm <span>Bavadharini</span></h1>
+      <h1>Hello, I'm <span>Bavadharini S</span></h1>
       <h3>MCA Student</h3>
 
       <p>
@@ -13,10 +13,13 @@ function Home(){
         building creative digital experiences.
       </p>
 
-      <button>Download Resume</button>
+      <a href="/Bavadharini_RESUME.pdf" download="Bavadharini_RESUME.pdf">
+        <button>Download Resume</button>
+      </a>
+
 
       <div className="image">
-        <img height={250} width={200} src="bava.jpeg" alt="me"/>
+         <img id="bavaimg" src="bava.jpeg" alt="me"/>  
       </div>
 
     </section>

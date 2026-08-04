@@ -51,6 +51,7 @@ color:#38bdf8;
 margin-left:15px;
 font-size:20px;
 cursor:pointer;
+color: solid aliceblue;
 }
 
 /* HOME */
@@ -98,7 +99,7 @@ margin-top:30px;
 
 #me{
 width:180px;
-height:180px;
+height: 180px;
 border-radius:50%;
 object-fit:cover;
 border:4px solid #38bdf8;
@@ -122,9 +123,9 @@ font-size:30px;
 background:#1e293b;
 padding:20px;
 margin:15px auto;
-width:250px;
+width:start end;
 border-radius:10px;
-box-shadow:0 0 10px rgba(0,0,0,0.5);
+box-shadow:0 0 10px solid black;
 }
 
 /* SKILLS */
@@ -137,7 +138,7 @@ list-style:none;
 background:#1e293b;
 margin:10px auto;
 padding:10px;
-width:200px;
+width:start end;
 border-radius:5px;
 }
 
@@ -145,4 +146,9 @@ border-radius:5px;
 
 #contact p{
 margin:10px 0;
+}
+
+#bavaimg{
+  width: 150px;
+  height: 180px;
 }

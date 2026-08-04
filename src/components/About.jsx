@@ -8,7 +8,7 @@ function About(){
 
       <p>
         I am currently pursuing MCA and have strong
-        interest in web development and Mobile
+        interest in web development and Mobile Application
         development.
         <br/>
         I am continuously learning new technologies
