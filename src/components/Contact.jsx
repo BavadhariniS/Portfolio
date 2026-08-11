@@ -13,6 +13,11 @@ function Contact(){
         https://www.linkedin.com/in/bavadharini-s/
         </a>
       </p>
+      <p>GitHub:
+        <a href="https://github.com/BavadhariniS">
+        https://github.com/BavadhariniS
+        </a>
+      </p>
     </section>
   )
 }
