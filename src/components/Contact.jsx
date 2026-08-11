@@ -8,14 +8,14 @@ function Contact(){
 
       <p>Email: bavadharini139@email.com</p>
       <p>Phone: +91 8939617997</p>
-      <p id="LG">LinkedIn:
-        <a href="https://www.linkedin.com/in/bavadharini-s/">
+      <p>LinkedIn:
+        <a id="LG" href="https://www.linkedin.com/in/bavadharini-s/">
         https://www.linkedin.com/in/bavadharini-s/
         </a>
       </p>
-      <p id="LG">GitHub:
-        <a href="https://github.com/BavadhariniS">
-        
+      <p>GitHub:
+        <a id="LG" href="https://github.com/BavadhariniS">
+        https://github.com/BavadhariniS
         </a>
       </p>
     </section>
